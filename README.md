@@ -1,7 +1,5 @@
-#git clone https://github.com/irfan-danuarta/hacking
+Hello word
 
-#cd hacking
-
-#python2 hacking.py
-
+Echo sandi:
+Echo pw.  :
 
