@@ -1,5 +1,5 @@
-$ git clone https://github.com/irfan-danuarta/hackFB
+$ git clone https://github.com/irfan-danuarta/hacking
 
-$ cd hackFb
+$ cd hacking
 
-$ python2 hackFb.py
+$ python2 hacking.py
