@@ -1,5 +1,7 @@
-$ git clone https://github.com/irfan-danuarta/hacking
+#git clone https://github.com/irfan-danuarta/hacking
 
-$ cd hacking
+#cd hacking
 
-$ python2 hacking.py
+#python2 hacking.py
+
+
